@@ -12,11 +12,10 @@ Looking for full? Please visit [<a href = "https://scholar.google.com/citations?
 
 [//]: (# Under Review Preprints)
 
-[//]: ( ###1.   **Jingbo Shang**, Xiyao Shi, Meng Jiang, Liyuan Liu, Timothy Hanratty, Jiawei Han, "[Contrast Subgraph Mining from Coherent Cores](https://arxiv.org/abs/1802.06189)", submitted to VLDB 2019, under review. [[code](https://github.com/shangjingbo1226/ContrastSubgraphMining)])
-[](#1.   **Jingbo Shang**, Meng Qu, Jialu Liu, Lance M. Kaplan, Jiawei Han, and Jian Peng, "[Meta-Path Guided Embedding for Similarity Search in Large-Scale Heterogeneous Information Networks](https://arxiv.org/abs/1610.09769)", to be submitted. [[code](https://github.com/shangjingbo1226/ESim)])
-
 ### Selected Publications
 
+1. Paheding, S., **Reyes, A. A.**, Kasaragod, A., & Oommen, T. (2022). [GAF-NAU: Gramian Angular Field encoded Neighborhood Attention U-Net for Pixel-Wise Hyperspectral Image Classification.](https://openaccess.thecvf.com/content/CVPR2022W/PBVS/html/Paheding_GAF-NAU_Gramian_Angular_Field_Encoded_Neighborhood_Attention_U-Net_for_Pixel-Wise_CVPRW_2022_paper.html) In Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (pp. 409-417).
+1. **A. A. R. Angulo**, X. Yang, Q. Niyaz, S. Paheding and A. Y. Javaid, ["A Secure Software Engineering Design Framework for Educational Purpose,"](https://ieeexplore.ieee.org/abstract/document/9837112) 2022 IEEE International Conference on Electro Information Technology (eIT), 2022, pp. 375-381, doi: 10.1109/eIT53891.2022.9837112.
 1. **Jingbo Shang**, Liyuan Liu, Xiaotao Gu, Xiang Ren, Teng Ren and Jiawei Han, "[Learning Named Entity Tagger using Domain-Specific Dictionary](https://arxiv.org/abs/1809.03599)", in Proc. of 2018 Conf. on Empirical Methods in Natural Language Processing (EMNLP'18), Brussels, Belgium, Oct. 2018. [[code](https://github.com/shangjingbo1226/AutoNER)]
 1. Liyuan Liu, Xiang Ren, **Jingbo Shang**, Xiaotao Gu, Jian Peng and Jiawei Han, "[Efficient Contextualized Representation: Language Model Pruning for Sequence Labeling](https://arxiv.org/abs/1804.07827)", in Proc. of 2018 Conf. on Empirical Methods in Natural Language Processing (EMNLP'18), Brussels, Belgium, Oct. 2018. [[code](https://github.com/LiyuanLucasLiu/LD-Net)]
 1.   **Jingbo Shang**, Tianhang Sun, Jiaming Shen, Xingbang Liu, Anja Gruenheid, Flip Korn, Adam Lelkes, Cong Yu, Jiawei Han, "[Investigating Rumor News Using Agreement-Aware Search](https://arxiv.org/abs/1802.07398)", in Proc. of 2018 ACM Int. Conf. on Information and Knowledge Management (CIKM'18), Turin, Italy, Oct. 2018. [[code](https://github.com/shangjingbo1226/Maester)]
@@ -34,9 +33,5 @@ Looking for full? Please visit [<a href = "https://scholar.google.com/citations?
 1.   **Jingbo Shang**, Tianqi Chen, Hang Li, Zhengdong Lu, Yong Yu. "[A Parallel and Efficient Algorithm for Learning to Match](https://arxiv.org/abs/1410.6414)". In Proceedings of IEEE International Conference on Data Mining (ICDM 2014), 2014. [[code](https://github.com/shangjingbo1226/PL2M)] [[slides](http://shang7.web.engr.illinois.edu/slides/pl2match-slides.pdf)] [[short version](http://shang7.web.engr.illinois.edu/papers/pl2match.pdf)]
 1.   **Jingbo Shang**, Yu Zheng, Wenzhu Tong, Eric Chang, Yong Yu. "[Inferring gas consumption and pollution emission of vehicles throughout a city](http://shang7.web.engr.illinois.edu/papers/GasConsumption.pdf)". In Proceedings of the 20th ACM SIGKDD international conference on Knowledge discovery and data mining (SIGKDD 2014), 2014. [[data](http://shang7.web.engr.illinois.edu/papers/GasConsumption-data-description.pdf)]
 
-### Conference Tutorials
+[//]:### Conference Tutorials
 
-1.   **Jingbo Shang**, Chao Zhang, Jiaming Shen, Jiawei Han, "[Towards Multidimensional Analysis of Text Corpora](https://shangjingbo1226.github.io/2018-04-21-kdd-tutorial/)", Proc. of 2018 ACM SIGKDD Int. Conf. on Knowledge Discovery and Data Mining (KDD'18), (Conference Tutorial), London, UK, Aug. 2018.
-1.   **Jingbo Shang**, Xiang Ren, Meng Jiang, and Jiawei Han, "[Mining Entity-Relation-Attribute Structures from Massive Text Data](/2017-08-11-kdd-tutorial/)", Proc. of 2017 ACM SIGKDD Int. Conf. on Knowledge Discovery and Data Mining (KDD'17), Halifax, Nova Scotia, Canada, August 2017.
-1.   Xiang Ren, Meng Jiang, **Jingbo Shang** and Jiawei Han, "Building Structured Databases of Factual Knowledge from Massive Text Corpora", Proc. of 2017 ACM SIGMOD Int. Conf. on Management of Data (SIGMOD'17), June 2017.
-1.   Xiang Ren, Meng Jiang, **Jingbo Shang** and Jiawei Han, "[Constructing Structured Information Networks from Massive Text Corpora](http://xren7.web.engr.illinois.edu/www17tutorial.html)", Proc. of 2017 World-Wide Web Conf. (WWW'17), Perth, Australia, Apr. 2017.
