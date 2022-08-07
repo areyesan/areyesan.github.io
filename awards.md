@@ -26,7 +26,8 @@ A selection of my <b>awards</b> and <b>media coverages</b>, sorted by time.
 📢 Dean List at Purdue University Northwest [[Details](https://www.pnw.edu/1909-purdue-university-northwest-students-earn-deans-list-honors/)]
 ### <center>2017</center>
 📢	Honors College Scholarship at Purdue University Northwest (spring 2016 – Spring 2018)
-
+### <center>2016</center>
+📢	Honors College Scholarship at Purdue University Northwest (spring 2016 – Spring 2018)
 
 ### <center>2012</center>
 
