@@ -3,26 +3,40 @@
 # url is the full website URL
 # baseurl is the website's URL without the hostname
 
+<<<<<<< HEAD
 # If you are building a simple GitHub user page (http://username.github.io) then use these settings:
 url: "http://areyesan.github.io"
 baseurl: ""
+=======
+# If you are building a simple GitHub user page (username.github.io) then use these settings:
+#url: "http://username.github.io"
+#baseurl: ""
+>>>>>>> origin/gh-pages
 
 # If you are building a GitHub project page then use these settings:
-#url: "http://username.github.io/projectname"
-#baseurl: "/projectname"
+url: "http://daattali.github.io/beautiful-jekyll"
+baseurl: "/beautiful-jekyll"
 
 # Of course don't forget to change the username and projectname to YOUR username and project
 
 # Name of website
+<<<<<<< HEAD
 title: Abel Reyes 
 
 # Short description of your site
 description: Welcome to Abel Reyes' Homepage! 
+=======
+title: Beautiful Jekyll
+
+# Short description of your site
+description: Quickly build a beautiful Jekyll website
+>>>>>>> origin/gh-pages
 
 # --- Navigation bar options --- #
 
 # List of links in the navigation bar
 navbar-links:
+<<<<<<< HEAD
   About Me: "about"
   Awards: "awards"
   Publications: "publications"
@@ -35,17 +49,37 @@ avatar: "/img/IMG_3872.JPG"
 # If you want to have an image logo in the top-left corner instead of the title text,
 # then specify the following parameter
 # title-img: /path/to/image
+=======
+  Home: ""
+  Resources:
+    - Getting started: "getstarted"
+    - Featured users: "featured-users"
+    - Project page: "https://github.com/daattali/beautiful-jekyll#readme"
+  About me: "http://deanattali.com"
+  Support me: "http://deanattali.com/aboutme/#feed-meeee"
+>>>>>>> origin/gh-pages
 
 # --- Footer options --- #
 
 # Change all these values or delete the ones you don't want.
 # Important: you must keep the "name" parameter, everything else you can remove
 author:
+<<<<<<< HEAD
   name: <a href='http://www.hit-counts.com'><img src='http://www.hit-counts.com/counter.php?t=MTM4NTA4MQ==' border='0' alt='Hit Counter'></a><br/>Abel Reyes 
   email: "areyesan@mtu.edu"
   #facebook: jingbo.shang
   github: areyesan
   
+=======
+  name: Dean Attali
+  email: "daattali@gmail.com"
+  facebook: daattali
+  github: daattali
+  twitter: daattali
+  linkedin: "pub/dean-attali/8/946/143"
+  stackoverflow: "users/3943160/daattali"
+ 
+>>>>>>> origin/gh-pages
 # Select which links to show in the footer
 footer-links-active:
   rss: false
@@ -58,6 +92,7 @@ footer-links-active:
   linkedin: true
   xing: false
   stackoverflow: false
+<<<<<<< HEAD
   snapchat: false
   instagram: false
   youtube: false
@@ -65,6 +100,9 @@ footer-links-active:
   telephone: false
 
 # Select which share links to show in posts
+=======
+  
+>>>>>>> origin/gh-pages
 share-links-active:
   twitter: true
   facebook: true
@@ -73,14 +111,18 @@ share-links-active:
 
 # How to display the link to the website in the footer
 # Remove this if you don't want a link in the footer
+<<<<<<< HEAD
 # url-pretty: "MyWebsite.com"  # eg. "deanattali.com/beautiful-jekyll"
+=======
+url-pretty: "deanattali.com/beautiful-jekyll"  # eg. "deanattali.com/beautiful-jekyll"
+>>>>>>> origin/gh-pages
 
 # --- Misc --- #
 # Fill in your Disqus shortname (NOT the userid) if you want to support Disqus comments
 #disqus: ""
 
 # Fill in your Google Analytics ID to track your website using GA
-#google_analytics: ""
+google_analytics: "UA-59820529-1"
 
 # Google Tag Manager ID
 #gtm: ""
@@ -99,6 +141,7 @@ title-separator: "-"
 # --- Don't need to touch anything below here (but you can if you want) --- #
 
 # Output options (more information on Jekyll's site)
+<<<<<<< HEAD
 timezone: "America/Chicago"
 markdown: kramdown
 highlighter: rouge
@@ -107,6 +150,13 @@ paginate: 100
 
 kramdown:
   input: GFM
+=======
+timezone: "America/Vancouver"
+markdown: kramdown
+highlighter: rouge
+permalink: /:year-:month-:day-:title/
+paginate: 5
+>>>>>>> origin/gh-pages
 
 # Default YAML values (more information on Jekyll's site)
 defaults:
@@ -116,17 +166,25 @@ defaults:
       type: "posts"
     values:
       layout: "post"
+<<<<<<< HEAD
       comments: true  # add comments to all blog posts
+=======
+      comments: true  # add comments to all blog posts 
+      show-share: true # add sharing buttons to all blog posts
+>>>>>>> origin/gh-pages
       social-share: true # add social media sharing buttons to all blog posts
   -
     scope:
       path: "" # all files
     values:
       layout: "page"
+<<<<<<< HEAD
       show-avatar: true
 
 # Use tags pages (not recommended if you are deploying via GitHub pages, only set to true if deploying locally with ruby)
 link-tags: false
+=======
+>>>>>>> origin/gh-pages
 
 # Exclude these files from production site
 exclude:

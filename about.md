@@ -16,6 +16,8 @@ permalink: /about/
 
 I am a Second-year Ph.D. student in Prof. [Sidike Paheding](https://www.mtu.edu/applied-computing/about/faculty/ac-faculty/paheding/)'s [Research Group](https://mtu.edu) at [CS&E@MTU](https://www.mtu.edu/cse/). I received my B.S. from Electrical and Computer Engineering Department, Purdue University Northwest. (PNW), Hammond, IN, where I was a member of the 2018 [Honors Colllege](https://www.pnw.edu/honors-college/). 
 
+This is a test 
+
 My research focuses on developing principled *data-driven* approaches, with *little human curation and labeling*, to transform unstructured text data into structured heterogeneous information networks, on which actionable knowledge can be further uncovered flexibly and effectively based on user's instructions.
 
 My research has been recognized by many prestigious awards, including Computer Science Excellence Scholarship from CS@Illinois, Grand Prize of Yelp Dataset Challenge in 2015, Google PhD Fellowship in Structured Data and Database Management in 2017, and C.W. Gear Outstanding Graduate Award in 2018.
