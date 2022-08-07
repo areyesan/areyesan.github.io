@@ -7,6 +7,7 @@
 
   <meta name="author" content="{{ site.author.name }}" />
 
+<<<<<<< HEAD
   {% if page.subtitle %}
   <meta name="description" content="{{ page.subtitle }}">
   {% endif %}
@@ -21,12 +22,27 @@
     {% endfor %}
   {% endif %}
 
+=======
+  <link rel="alternate" type="application/rss+xml" title="{{ site.title }} - {{ site.description }}" href="{{ site.baseurl }}/feed.xml" />
+  
+  {% if layout.common-ext-css %}
+    {% for css in layout.common-ext-css %}
+      <link rel="stylesheet" href="{{ css }}" />
+    {% endfor %}
+  {% endif %}    
+  
+>>>>>>> origin/gh-pages
   {% if layout.common-css %}
     {% for css in layout.common-css %}
       <link rel="stylesheet" href="{{ css | prepend: site.baseurl | replace: '//', '/' }}" />
     {% endfor %}
+<<<<<<< HEAD
   {% endif %}
 
+=======
+  {% endif %}  
+  
+>>>>>>> origin/gh-pages
   {% if layout.common-googlefonts %}
     {% for font in layout.common-googlefonts %}
       <link rel="stylesheet" href="//fonts.googleapis.com/css?family={{ font }}" />
@@ -51,11 +67,15 @@
     {% endfor %}
   {% endif %}
 
+<<<<<<< HEAD
     <!-- Facebook OpenGraph tags -->
   {% if site.fb_app_id %}
   <meta property="fb:app_id" content="{{ site.fb_app_id }}" />
   {% endif %}
 
+=======
+  <!-- Facebook OpenGraph tags -->
+>>>>>>> origin/gh-pages
   {% if page.meta-title %}
   <meta property="og:title" content="{{ page.meta-title }}" />
   {% elsif page.title %}
@@ -63,6 +83,7 @@
   {% else %}
   <meta property="og:title" content="{{ site.title }}" />
   {% endif %}
+<<<<<<< HEAD
 
    {% if page.meta-description %}
   <meta property="og:description" content="{{ page.meta-description }}">
@@ -90,10 +111,28 @@
   {% endif %}
   
 
+=======
+  
+  <meta property="og:type" content="website" />
+  
+  {% if page.id %}
+  <meta property="og:url" content="{{ site.url }}{{ page.url }}" />
+  {% else %}
+  <meta property="og:url" content="{{ site.url }}{{ page.url | remove: '/index.html' | remove: '.html' }}" />
+  {% endif %}
+  
+  {% if page.share-img %}
+  <meta property="og:image" content="{{ page.share-img }}" />
+  {% else %}
+  <meta property="og:image" content="{{ site.url }}{{ site.avatar }}" />
+  {% endif %}  
+  
+>>>>>>> origin/gh-pages
   <!-- Twitter summary cards -->
   <meta name="twitter:card" content="summary" />
   <meta name="twitter:site" content="@{{ site.author.twitter }}" />
   <meta name="twitter:creator" content="@{{ site.author.twitter }}" />
+<<<<<<< HEAD
 
   {% if page.meta-title %}
   <meta name="twitter:title" content="{{ page.meta-title }}" />
@@ -111,10 +150,18 @@
   <meta name="twitter:description" content="{{ page.content | strip_html | xml_escape | truncatewords: 50 }}">
   {% endif %}
 
+=======
+  <meta name="twitter:title" content="{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}" />
+  <meta name="twitter:description" content="{{ page.content | strip_html | xml_escape | truncatewords: 50 }}" />
+>>>>>>> origin/gh-pages
   {% if page.share-img %}
   <meta name="twitter:image" content="{{ page.share-img }}" />
   {% elsif site.avatar %}
   <meta name="twitter:image" content="{{ site.url }}{{ site.avatar }}" />
+<<<<<<< HEAD
   {% endif %}
 
+=======
+  {% endif %}  
+>>>>>>> origin/gh-pages
 </head>

@@ -57,6 +57,15 @@ hr.small {
   padding: 15px inherit;
 }
 
+.get-started-wrap {
+  text-align: center;
+}
+.get-started-btn {
+  padding: 15px 30px;
+  font-size: 26px;
+  margin-top: 10px;
+}
+
 .hideme {
   display: none;
 }
@@ -80,6 +89,7 @@ img::-moz-selection {
   background: transparent;
 }
 
+<<<<<<< HEAD
 img {
   max-width: 100%;
 }
@@ -92,6 +102,16 @@ img {
   .disqus-comments {
     margin-top: 40px;
   }
+=======
+#paypalbtn {
+  text-align: center;
+}
+
+#paypalbtn a {
+  text-decoration: none;
+  font-size: 1.2em;
+  font-family: arial;
+>>>>>>> origin/gh-pages
 }
 
 /* --- Navbar --- */
@@ -373,6 +393,7 @@ footer .theme-by {
   }
 }
 
+<<<<<<< HEAD
 /* --- Tags --- */
 
 .blog-tags {
@@ -424,6 +445,14 @@ footer .theme-by {
   margin: 80px 0 20px;
   position: relative;
 }
+=======
+/* --- Post and page headers --- */
+
+.intro-header {
+  margin: 80px 0 20px;
+  position: relative;
+}
+>>>>>>> origin/gh-pages
 .intro-header.big-img {
   background: no-repeat center center;
   -webkit-background-size: cover;
@@ -505,11 +534,19 @@ footer .theme-by {
   }
   .intro-header.big-img {
     margin-top: 91px;  /* Full navbar is small navbar + 20px padding on each side when expanded */
+<<<<<<< HEAD
   }
   .intro-header.big-img .page-heading,
   .intro-header.big-img .post-heading  {
     padding: 150px 0;
   }
+=======
+  }	
+  .intro-header.big-img .page-heading,
+  .intro-header.big-img .post-heading  {
+    padding: 150px 0;
+  }  
+>>>>>>> origin/gh-pages
   .intro-header .page-heading h1 {
     font-size: 80px;
   }
@@ -546,9 +583,15 @@ footer .theme-by {
   }
   .header-section.has-img .big-img {
     margin-bottom: 0;
+<<<<<<< HEAD
   }
 }
 @media only screen and (max-width: 325px) {
+=======
+  }  
+} 
+@media only screen and (max-width: 325px) { 
+>>>>>>> origin/gh-pages
   .intro-header.big-img {
     height: 200px;
   }
@@ -645,6 +688,7 @@ table tr td :last-child {
 pre {
   font-size: 16px;
   line-height: 1.5em;
+<<<<<<< HEAD
 }
 pre code {
   white-space: pre;
@@ -677,6 +721,15 @@ td.gutter {
 }
 
 /* --- Social media sharing section --- */
+=======
+  background: #FAFAFA;
+  background-image: linear-gradient(#FAFAFA 50%, #FDFDFD 50%);
+  background-position: 0px 10px;
+  background-repeat: repeat;
+  background-size: 3em 3em;
+  border-left: 7px solid #444;
+}
+>>>>>>> origin/gh-pages
 
 #social-share-section {
   margin-bottom: 30px;
