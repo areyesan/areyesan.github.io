@@ -60,11 +60,7 @@ var main = {
       });
 
       fakeMenu.remove();
-<<<<<<< HEAD
     }        
-=======
-    }    
->>>>>>> origin/gh-pages
     
     // show the big header image	
     main.initImgs();

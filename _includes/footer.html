@@ -173,15 +173,10 @@
 		  {{ site.author.name }}
 		  &nbsp;&bull;&nbsp;
 		  {{ site.time | date: '%Y' }}
-<<<<<<< HEAD
 
 		  {% if site.url-pretty %}
-=======
-		  
-		  {% if site.author.email %}
->>>>>>> origin/gh-pages
 		  &nbsp;&bull;&nbsp;
-		  <a href="mailto:{{ site.author.email }}">{{ site.author.email }}</a>
+		  <a href="{{ site.url }}">{{ site.url-pretty }}</a>
 		  {% endif %}
 	    </p>
 	        <!-- Please don't remove this, keep my open source work credited :) -->

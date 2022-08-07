@@ -1,36 +1,11 @@
 ---
 layout: page
-<<<<<<< HEAD
 title: Hi, I'm Abel
 subtitle: PhD student, CS&E@MTU
 bigimg: ["/img/01.jpg", "/img/02.JPG", "/img/03.jpg", "/img/banner.JPG", "/img/04.JPG", "/img/05.jpg", "/img/06.JPG", "/img/07.JPG", "/img/09.jpg", "/img/10.jpg", "/img/11.jpg", "/img/12.jpg"]
 use-site-title: true
 ---
 
-=======
-title: Beautiful Jekyll
-subtitle: Build a beautiful and simple website in minutes
-fb-img: "http://deanattali.com/img/blog/beautiful-jekyll.png"
----
-
-<div class="main-explain-area jumbotron">
-  <p>This website is powered by GitHub Pages/Jekyll and can be built in <strong>under 5 minutes</strong>. Literally.</p>
-  <p>Head over to <a href="https://github.com/daattali/beautiful-jekyll#readme">the GitHub project</a>
-  to get started.</p>
-  <div class="get-started-wrap">
-    <a class="btn btn-success btn-lg get-started-btn" href="https://github.com/daattali/beautiful-jekyll#readme">Get Started!</a>
-  </div>
-  <p>This template was designed to look great on both desktops and smaller (mobile) devices.</p>
-  <p>Below are sample blog posts for illustration purposes.</p>
-  <p>If you like this theme, please consider supporting me :)</p>
-  <p align="center">
-    <a href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=EG5Q5483TTWCN">
-      <img src="https://www.paypalobjects.com/en_US/i/btn/btn_donate_LG.gif" />
-    </a>
-  </p>
-</div>
-
->>>>>>> origin/gh-pages
 <div class="posts-list">
   {% for post in paginator.posts %}
   <article class="post-preview">
@@ -47,7 +22,6 @@ fb-img: "http://deanattali.com/img/blog/beautiful-jekyll.png"
     <p class="post-meta">
       Posted on {{ post.date | date: "%B %-d, %Y" }}
     </p>
-<<<<<<< HEAD
 
     <div class="post-entry-container">
       {% if post.image %}
@@ -64,12 +38,6 @@ fb-img: "http://deanattali.com/img/blog/beautiful-jekyll.png"
           <a href="{{ post.url | prepend: site.baseurl }}" class="post-read-more">[Read&nbsp;More]</a>
         {% endif %}
       </div>
-=======
-  
-    <div class="post-entry">
-      {{ post.content | truncatewords: 50 | strip_html | xml_escape}}
-	  <a href="{{ post.url | prepend: site.baseurl }}" class="post-read-more">Read More</a>
->>>>>>> origin/gh-pages
     </div>
 
     {% if post.tags.size > 0 %}
