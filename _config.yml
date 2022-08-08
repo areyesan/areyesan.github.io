@@ -23,10 +23,10 @@ description: Welcome to Abel Reyes' Homepage!
 
 # List of links in the navigation bar
 navbar-links:
-  About Me: "about_2"
-  Awards: "awards_2"
-  Publications: "publications_2"
-  Experiences: "experiences_2"
+  About Me: "about"
+  Awards: "awards"
+  Publications: "publications"
+  Experiences: "experiences"
 
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
