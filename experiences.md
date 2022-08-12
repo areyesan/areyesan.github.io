@@ -30,16 +30,11 @@ A selection of my <b>experiences</b>, grouped by categories.
 
 ## <center>Professional Service</center>
 
-### Program Committee
-
-- SIAM International Conference on Data Mining (SDM), 2018
-- ACM International Conference on Information and Knowledge Management (CIKM), 2017--2018
 
 ### Journal Reviewer
 
-- IEEE Transactions on Knowledge and Data Engineering (TKDE)
-- ACM Transactions on Intelligent Systems and Technology (TIST)
-- IEEE Transactions on Big Data (TBD)
+- Signal, Image and Video Processing (SIVP) 
+
 
 ## <center>Competitive Programming</center>
 
