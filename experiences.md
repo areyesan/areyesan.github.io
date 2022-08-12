@@ -10,26 +10,21 @@ A selection of my <b>experiences</b>, grouped by categories.
 
 ## <center>Employments</center>
 
-- **Two Sigma Investments LP**, New York City, NY,  Jun - Aug 2018
-  * Quantitative Research Intern
-- **Google Research**, New York City, NY, May - Aug 2017
-  * Research Intern at Structure Data Team
-- **Google**, New York City, NY, May - Aug 2016
-  * Software Engineering Intern at Local Quality Search Team
-- **Microsoft Research Asia**, Beijing, China, Aug 2013 - Feb 2014
-  * Research Intern at Urban Computing Group
-
+- **Banco del Pacifico**, Guayaquil, Ecuador,  Jun - Sep 2021
+	* Big Data Specialist
+- ** Unidad Educativa Jefferson**, Guayaquil, Ecuador, Jun 2018 - Jan 2019
+	* Highschool teacher
 ## <center>Teaching & Coaching</center>
 
-- **Instructor**, [CS491 CAP, Competitive Algorithmic Programming](https://pages.github-dev.cs.illinois.edu/sig-icpc/cs491-cap), UIUC, Springs 2016, 2017, and 2018
-- **Instructor**, [CS491 WF, Intro to Competitive Algorithmic Programming](https://pages.github-dev.cs.illinois.edu/sig-icpc/cs491-wf/), UIUC, Falls 2015, 2016, 2017, and 2018
-- **Teaching Assistant**, [Data Mining Specialization, UIUC & Coursera](https://www.coursera.org/specializations/data-mining), Spring and Fall 2015
-- **Coach** of UIUC ACM/ICPC Team, Aug. 2014 - Present
-- **Assistant Coach** of SJTU ACM/ICPC Team, Aug. 2011 - Jun. 2014
+- **Teaching Assistant**, [Digital Systems, PNW], Spring 2019]
+- **Teaching Assistant**, [Elementary Engineering Design, PNW], Fall 2019
+- **Teaching Assistant**, [Programming for engineers (C++), PNW], Spring 2020
+- **Teaching Assistant**, [Computer Organization and Design, PNW] Spring 2020
+- **Academic Tutor** of Purdue University Nortwest Student Academic Support Department, Spring 2016 - Spring 2019
+- **Supplemental Instructor Leader** of Algebra, Trigonometry and C++ Spring 2017 - Spring. 2019
 
 
 ## <center>Professional Service</center>
-
 
 ### Journal Reviewer
 
@@ -38,20 +33,8 @@ A selection of my <b>experiences</b>, grouped by categories.
 
 ## <center>Competitive Programming</center>
 
-- [International Collegiate Programming Competition (ACM/ICPC)](https://icpc.baylor.edu/)
-  * **Gold medal, 2nd Place, Asian Champion** in World Finals 2013
-    * [SJTU Students Swept ACM-ICPC Final Golds](http://en.sjtu.edu.cn/news/sjtu-students-swept-acm-icpc-final-golds/)
-  * 13th place in World Finals 2011
-  * **6** times Asian Regional **Champions** from 2010 to 2012
-- Other International Programming Competitions
-  * 15th place in [Facebook Hackercup](https://en.wikipedia.org/wiki/Facebook_Hacker_Cup) 2014
-  * 7th place in [VK Cup 2012](http://codeforces.com/blog/entry/4885)
-  * [Topcoder](https://www.topcoder.com/tc/)
-    * handle: **[<span style="color:red">shangjingbo</span>](https://www.topcoder.com/members/shangjingbo/)**
-    * achieved [Algorithm Target](https://www.quora.com/What-is-it-like-to-be-a-target-coder-in-Topcoder) (rating 3000+)
-    * ranked in Top 10 all over the world in 2012
-    * 4th place in Topcoder Open 2012
-    * Top-24 in Topcoder Open 2014
-- High School Olympiad Informatics
-  * **Gold medal** in [the third Asia-Pacific Informatics Olympiad (APIO)](http://apio-olympiad.org/2009/results.html) 2009.
-  * **Silver medal** in [China National Olympiad Informatics (NOI)](https://en.wikipedia.org/wiki/National_Olympiad_in_Informatics,_China) 2008
+- Cyber Fasttrack Challenge program 2019
+	* Semifinalist in the nationwide competition.
+- HackIN 2019, Indianapolis, IN - Nov, 2019
+	*	Ranked in Top 10 (50+ teams participants)
+	
