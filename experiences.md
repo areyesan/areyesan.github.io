@@ -12,7 +12,7 @@ A selection of my <b>experiences</b>, grouped by categories.
 
 - **Banco del Pacifico**, Guayaquil, Ecuador,  Jun - Sep 2021
 	* Big Data Specialist
-- ** Unidad Educativa Jefferson**, Guayaquil, Ecuador, Jun 2018 - Jan 2019
+- **Unidad Educativa Jefferson**, Guayaquil, Ecuador, Jun 2018 - Jan 2019
 	* Highschool teacher
 ## <center>Teaching & Coaching</center>
 
