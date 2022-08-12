@@ -14,6 +14,7 @@ A selection of my <b>experiences</b>, grouped by categories.
 	* Big Data Specialist
 - **Unidad Educativa Jefferson**, Guayaquil, Ecuador, Jun 2018 - Jan 2019
 	* Highschool teacher
+	
 ## <center>Teaching & Coaching</center>
 
 - **Teaching Assistant**, [Digital Systems, PNW], Spring 2019]
