@@ -16,8 +16,10 @@ permalink: /about/
 
 I am a Second-year Ph.D. student in Prof. [Sidike Paheding](https://www.mtu.edu/applied-computing/about/faculty/ac-faculty/paheding/)'s [Research Group](https://mtu.edu) at [CS&E@MTU](https://www.mtu.edu/cse/). I received my B.S. from Electrical and Computer Engineering Department, Purdue University Northwest. (PNW), Hammond, IN, where I was a member of the 2018 [Honors Colllege](https://www.pnw.edu/honors-college/). 
 
-My research focuses on developing principled *data-driven* approaches, with *little human curation and labeling*, to transform unstructured text data into structured heterogeneous information networks, on which actionable knowledge can be further uncovered flexibly and effectively based on user's instructions.
 
-My research has been recognized by many prestigious awards, including Computer Science Excellence Scholarship from CS@Illinois, Grand Prize of Yelp Dataset Challenge in 2015, Google PhD Fellowship in Structured Data and Database Management in 2017, and C.W. Gear Outstanding Graduate Award in 2018.
+My research focuses on developing deep learning architectures for segmentation task in different areas such as hyperspectral, medical and geospatial imaging, with spetial focus in attention mechanism and loss optimization functions. In addition, I have been working in projects related to cybersecurity, software development and virtual reality.
 
-In addition, I love competitive programming contests, such as ACM/ICPC, Topcoder Open, Google Codejam, Facebook Hackercup, etc. I'm now the coach of the UIUC's ACM/ICPC team and I enjoy mentoring and coaching students.
+My research has been published in many prestigious conferences, journal papers and posters presentations, including: CVPR 2022, MICCAI 2022, IEEE EIT 2022, and MDPI Electronics.
+
+
+In addition, I love cybersecurity/hacking competitions and video game developemnt using engines such as Unity and Unreal. 
