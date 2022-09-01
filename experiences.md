@@ -9,11 +9,14 @@ A selection of my <b>experiences</b>, grouped by categories.
 </p>
 
 ## <center>Employments</center>
-
+- **Michigan Technological University**, Houghton, MI, USA,  Sep 2021 - Present
+	* Graduate Research Assistant
 - **Banco del Pacifico**, Guayaquil, Ecuador,  Jun - Sep 2021
 	* Big Data Specialist
 - **Unidad Educativa Jefferson**, Guayaquil, Ecuador, Jun 2018 - Jan 2019
 	* Highschool teacher
+- **Purdue University Northwest**, Hammond, IN, USA,  Jan 2019 - Aug 2021
+	* Graduate Teaching and Research Assistant
 	
 ## <center>Teaching & Coaching</center>
 
