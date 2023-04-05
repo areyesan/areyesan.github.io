@@ -7,7 +7,10 @@ permalink: /awards/
 <p align="center">
 A selection of my <b>awards</b> and <b>media coverages</b>, sorted by time.
 </p>
+### <center>2023</center>
 
+### <center>2022</center>
+📢 Honorable Mention in the Show Computing Poster Session @ Michigan Tech [[Details](https://blogs.mtu.edu/computing/2022/10/21/computingmtu-showcase-poster-session-winners/)]
 ### <center>2021</center>
 📢	Fellowship from Applied Computing Department for doctorate studies at Michigan Tech (Spring 2022) 
 ### <center>2020</center>
