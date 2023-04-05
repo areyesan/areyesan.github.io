@@ -33,4 +33,6 @@ A selection of my <b>awards</b> and <b>media coverages</b>, sorted by time.
 
 ### <center>2012</center>
 
-🏆 **National** Scholarship (Ecuador)
+🏆 **National** Scholarship (Ecuador) [[Details](https://www.eluniverso.com/2012/03/17/1/1445/descoordinacion-durante-prueba-estudiantes-gar-politecnica.html)]
+
+
