@@ -8,7 +8,7 @@ permalink: /awards/
 A selection of my <b>awards</b> and <b>media coverages</b>, sorted by time.
 </p>
 ### <center>2023</center>
-
+✈️ Travel grant: SIIM 2023 Helen and Paul Chang Foundation Travel Award [[Details](https://blogs.mtu.edu/computing/2023/03/10/ph-d-student-abel-reyes-selected-for-siim-2023-helen-and-paul-chang-foundation-travel-award/)]
 ### <center>2022</center>
 📢 Honorable Mention in the Show Computing Poster Session @ Michigan Tech [[Details](https://blogs.mtu.edu/computing/2022/10/21/computingmtu-showcase-poster-session-winners/)]
 ### <center>2021</center>
