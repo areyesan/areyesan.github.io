@@ -13,7 +13,8 @@ Looking for full? Please visit [<a href = "https://scholar.google.com/citations?
 [//]: (# Under Review Preprints)
 
 ### Selected Publications
-
+1. **Abel A Reyes**, Sidike Paheding, A Rajaneesh, KS Sajinkumar, Thomas Oommen (2023). [C-PLES: Contextual Progressive Layer Expansion With Self-Attention for Multi-Class Landslide Segmentation on Mars Using Multimodal Satellite Imagery.](https://openaccess.thecvf.com/content/CVPR2023W/PBVS/html/Reyes_C-PLES_Contextual_Progressive_Layer_Expansion_With_Self-Attention_for_Multi-Class_Landslide_CVPRW_2023_paper.html) In Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) Workshops, 2023, pp. 354-364
+<br/>
 1. Paheding, S., **Reyes, A. A.**, Kasaragod, A., & Oommen, T. (2022). [GAF-NAU: Gramian Angular Field encoded Neighborhood Attention U-Net for Pixel-Wise Hyperspectral Image Classification.](https://openaccess.thecvf.com/content/CVPR2022W/PBVS/html/Paheding_GAF-NAU_Gramian_Angular_Field_Encoded_Neighborhood_Attention_U-Net_for_Pixel-Wise_CVPRW_2022_paper.html) In Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (pp. 409-417).
 <br/>
 1. **A. A. R. Angulo**, X. Yang, Q. Niyaz, S. Paheding and A. Y. Javaid, ["A Secure Software Engineering Design Framework for Educational Purpose,"](https://ieeexplore.ieee.org/abstract/document/9837112) 2022 IEEE International Conference on Electro Information Technology (eIT), 2022, pp. 375-381, doi: 10.1109/eIT53891.2022.9837112.
