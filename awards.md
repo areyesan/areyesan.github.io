@@ -8,9 +8,11 @@ permalink: /awards/
 A selection of my <b>awards</b> and <b>media coverages</b>, sorted by time.
 </p>
 ### <center>2023</center>
+📢 THE MAIN CONFERENCE AND SATELLITE EVENTS PARTICIPATION GRANTS @ MICCAI 2023: Registration waiver award from the MICCAI Society [[Details](https://conferences.miccai.org/2023/en/MICCAI-SOCIETY-PARTICIPATION-GRANT.html)] 
+<br/>
 ✈️ LXAI Travel grant: LatinX in AI support our research with a travel grant to present our work at the ICML LXAI workshop. [[Details](https://openreview.net/forum?id=Yv5pBDLUq6)]
 <br/>
-📢 IDE scholarship @ CVPR 2023: Registration waiver award from the IEEE / CVF [[Details](https://blogs.mtu.edu/computing/2023/04/26/ph-d-student-abel-reyes-angulo-to-present-paper-at-the-premier-computer-vision-conference/)] 
+📢 IDE scholarship @ CVPR 2023: Registration waiver and travel award from the IEEE / CVF [[Details](https://blogs.mtu.edu/computing/2023/04/26/ph-d-student-abel-reyes-angulo-to-present-paper-at-the-premier-computer-vision-conference/)] 
 <br/>
 ✈️ Travel grant: ICC@MTU Student travel Award [[Details](https://blogs.mtu.edu/icc/2023/04/student-travel-grants-awarded/)]
 <br/>
