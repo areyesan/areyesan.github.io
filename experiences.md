@@ -20,7 +20,7 @@ A selection of my <b>experiences</b>, grouped by categories.
 	
 ## <center>Teaching & Coaching</center>
 
-- **Instructor**, [EET 4501, Applied Machine Leanring, Department of Applied Computing, Michigan Technological University, Spring 2024]
+- **Instructor**, [EET 4501, Applied Machine Learning, Department of Applied Computing, Michigan Technological University, Spring 2024]
 - **Instructor**, [SAT 4310, Advance Scripting Programming, Department of Applied Computing, Michigan Technological University, Fall 2023]
 - **Teaching Assistant**, [Digital Systems, PNW], Spring 2019]
 - **Teaching Assistant**, [Elementary Engineering Design, PNW], Fall 2019
