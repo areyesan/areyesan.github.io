@@ -30,6 +30,12 @@ A selection of my <b>experiences</b>, grouped by categories.
 - **Supplemental Instructor Leader** of Algebra, Trigonometry and C++ Spring 2017 - Spring. 2019
 
 
+## <center>Leadership & Extracurricular Activities</center>
+- LXAI workshop @ NeurIPS 2023 - Visa Chair 
+- ML in Education sub-committee @ SIIM - Member
+- Impuse data & AI 2023 conference - Organizer Committee Member
+- Graduate Student Government @ Michigan Tech - Grad Commons Mannager   
+
 ## <center>Professional Service</center>
 
 ### Journal Reviewer
