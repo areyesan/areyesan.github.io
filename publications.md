@@ -7,7 +7,7 @@ permalink: /publications/
 <p align="center">
 A selection of my publications, sorted by time.
 <br/>
-Looking for full? Please visit [<a href = "https://scholar.google.com/citations?user=qIe04eoAAAAJ&hl=en">Google Scholar</a>] or [<a href = "https://www.researchgate.net/profile/Abel-Reyes-2">Research Gate</a>].
+Looking for full? Please visit [<a href = "https://scholar.google.com/citations?user=2sAUe_YAAAAJ&hl=en">Google Scholar</a>] or [<a href = "https://www.researchgate.net/profile/Abel-Reyes-2">Research Gate</a>].
 </p>
 
 [//]: (# Under Review Preprints)
