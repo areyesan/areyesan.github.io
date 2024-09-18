@@ -12,5 +12,5 @@ More information can be found [here](https://www.bcbsm.com/foundation/grants/stu
 
 
 ![](/img/BCBSMF.png)
-![here](https://www.bcbsm.com/foundation/grants/student-award-program/)
-![here](https://blogs.mtu.edu/computing/2024/04/12/phd-student-abel-reyes-angulo-awarded-grant-from-bcbs-of-michigan-foundation/)
+[https://www.bcbsm.com/foundation/grants/student-award-program/](https://www.bcbsm.com/foundation/grants/student-award-program/)
+[https://blogs.mtu.edu/computing/2024/04/12/phd-student-abel-reyes-angulo-awarded-grant-from-bcbs-of-michigan-foundation/](https://blogs.mtu.edu/computing/2024/04/12/phd-student-abel-reyes-angulo-awarded-grant-from-bcbs-of-michigan-foundation/)
