@@ -11,6 +11,8 @@ A selection of my <b>awards</b> and <b>media coverages</b>, sorted by time.
 📢 Blue Cross Blue Shield of Michigan Foundation Student Award Program recipient [[Details](https://www.bcbsm.com/foundation/grants/student-award-program/)]
 <br/>
 📢 IDE scholarship @ CVPR 2024: Registration waiver and travel award from the IEEE / CVF 
+<br/>
+📢 Outstanding Graduate Student Teaching Award Spring 2024
 ### <center>2023</center>
 📢 THE MAIN CONFERENCE AND SATELLITE EVENTS PARTICIPATION GRANTS @ MICCAI 2023: Registration waiver award from the MICCAI Society [[Details](https://conferences.miccai.org/2023/en/MICCAI-SOCIETY-PARTICIPATION-GRANT.html)] 
 <br/>
