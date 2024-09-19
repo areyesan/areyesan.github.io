@@ -9,6 +9,8 @@ A selection of my <b>experiences</b>, grouped by categories.
 </p>
 
 ## <center>Employments</center>
+- **Walmart Global Tech**, Bentonville, AR, USA,  June 2024 - August 2024
+	* Senior Data Scientist ❇️.
 - **Michigan Technological University**, Houghton, MI, USA,  Sep 2021 - Present
 	* Graduate Research Assistant - Adjunct Instructor.
 - **Banco del Pacifico**, Guayaquil, Ecuador,  Jun - Sep 2021
