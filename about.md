@@ -11,6 +11,12 @@ permalink: /about/
     </a>
 </p>
 
+<p align="center">
+    Repo: 
+    <a href="https://github.com/areyesan">
+        <img alt="Github Repo" src="https://img.shields.io/badge/Github_Repo-blue.svg">
+    </a>
+</p>
 
 # <center>Short Bio</center>
 
