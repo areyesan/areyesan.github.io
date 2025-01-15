@@ -7,12 +7,18 @@ permalink: /awards/
 <p align="center">
 A selection of my <b>awards</b> and <b>media coverages</b>, sorted by time.
 </p>
+### <center>2025</center>
+📢 Michigan Tech - Grad School Doctoral Finishing Fellowship Award Program recipient [[Details](https://blogs.mtu.edu/gradschool/2025/01/10/finishing-fellowship-spring-2025-abel-reyes-angulo/)]
+
 ### <center>2024</center>
 📢 Blue Cross Blue Shield of Michigan Foundation Student Award Program recipient [[Details](https://www.bcbsm.com/foundation/grants/student-award-program/)]
 <br/>
 📢 IDE scholarship @ CVPR 2024: Registration waiver and travel award from the IEEE / CVF 
 <br/>
 📢 Outstanding Graduate Student Teaching Award Spring 2024
+<br/>
+✈️ LXAI Travel grant as part of the support for voluteering as a visa chair for the LXAI workshop at NeurIPS 2024. [[Details](https://www.latinxinai.org/neurips-2024)]
+
 ### <center>2023</center>
 📢 THE MAIN CONFERENCE AND SATELLITE EVENTS PARTICIPATION GRANTS @ MICCAI 2023: Registration waiver award from the MICCAI Society [[Details](https://conferences.miccai.org/2023/en/MICCAI-SOCIETY-PARTICIPATION-GRANT.html)] 
 <br/>
