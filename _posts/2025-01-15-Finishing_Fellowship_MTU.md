@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Michigan Tech Grad School Doctoral FInishing Fellowship "
+title:  "Michigan Tech Grad School Doctoral Finishing Fellowship "
 date:   2025-01-14 18:00:00 -0400
 tags: MTU Grad-School student award
 image: /img/mtu_logo.png
