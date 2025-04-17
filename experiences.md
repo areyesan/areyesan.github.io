@@ -33,6 +33,8 @@ A selection of my <b>experiences</b>, grouped by categories.
 
 
 ## <center>Leadership & Extracurricular Activities</center>
+- LXAI workshop @ ICML 2023 - Program co-chair 
+- LXAI workshop @ NeurIPS 2024 - Visa co-chair 
 - LXAI workshop @ NeurIPS 2023 - Visa Chair 
 - ML in Education sub-committee @ SIIM - Member
 - Impuse data & AI 2023 conference - Organizer Committee Member
@@ -43,7 +45,13 @@ A selection of my <b>experiences</b>, grouped by categories.
 ### Journal Reviewer
 
 - Signal, Image and Video Processing (SIVP) 
+- Neurocomputing
+- International Journal of Digital Earth
 
+### Conference Reviewer
+- MICCAI
+- CVPRw PBVS
+- CVPRw LXCV
 
 ## <center>Competitive Programming</center>
 
