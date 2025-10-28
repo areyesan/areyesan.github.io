@@ -33,7 +33,7 @@ A selection of my <b>experiences</b>, grouped by categories.
 
 
 ## <center>Leadership & Extracurricular Activities</center>
-- LXAI workshop @ ICML 2023 - Program co-chair 
+- LXAI workshop @ ICML 2025 - Program co-chair 
 - LXAI workshop @ NeurIPS 2024 - Visa co-chair 
 - LXAI workshop @ NeurIPS 2023 - Visa Chair 
 - ML in Education sub-committee @ SIIM - Member
