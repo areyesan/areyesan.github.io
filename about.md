@@ -20,10 +20,10 @@ permalink: /about/
 
 # <center>Short Bio</center>
 
-I am a Ph.D. graduate in Prof. [Sidike Paheding](https://www.mtu.edu/applied-computing/about/faculty/ac-faculty/paheding/)'s research group at [CS&E@MTU](https://www.mtu.edu/cse/). I received my B.S. from the Electrical and Computer Engineering Department at Purdue University Northwest (PNW), where I was a member of the 2018 [Honors College](https://www.pnw.edu/honors-college/).
+I am a Ph.D. graduate in the Applied Computing program at [CS&E@MTU](https://www.mtu.edu/cse/), where I worked with Prof. [Sidike Paheding](https://www.mtu.edu/applied-computing/about/faculty/ac-faculty/paheding/). I earned my B.S. in Electrical and Computer Engineering from Purdue University Northwest (PNW), where I was also a member of the 2018 [Honors College](https://www.pnw.edu/honors-college/).
 
-My research focuses on developing deep learning architectures for segmentation tasks in domains such as hyperspectral, medical, and geospatial imaging, with emphasis on attention mechanisms, efficient learning, and loss optimization. I also work on interdisciplinary projects spanning cybersecurity, software development, and applied AI.
+My research sits at the intersection of computer vision, deep learning, and applied AI, with a strong focus on medical image segmentation, hyperspectral image analysis, and remote sensing for geospatial and planetary applications. I have developed efficient learning strategies, attention-based architectures, and loss-function-driven models for tasks ranging from retinal and skin lesion segmentation to Martian landslide detection and crop monitoring.
 
-My recent work includes publications in venues such as WACV 2024, CVPR Workshops 2024, and CVPR Workshops 2023, alongside prior work in hyperspectral image analysis, medical imaging, and security-focused machine learning.
+Beyond core vision research, I have collaborated on interdisciplinary projects in cybersecurity, software engineering, nursing education, and serious games. My work has been disseminated in venues like CVPR, WACV, SPIE, IGARSS, and other applied AI and engineering conferences.
 
-In addition, I enjoy cybersecurity and capture-the-flag competitions, as well as game development using engines such as Unity and Unreal.
+I have also been active in teaching, mentoring, and research service. I enjoy building AI systems that are not only technically strong, but also useful in real-world domains, and I remain passionate about cybersecurity, educational technology, and applied machine learning.
