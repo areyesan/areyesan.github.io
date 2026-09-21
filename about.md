@@ -20,12 +20,10 @@ permalink: /about/
 
 # <center>Short Bio</center>
 
-I am a Second-year Ph.D. student in Prof. [Sidike Paheding](https://www.mtu.edu/applied-computing/about/faculty/ac-faculty/paheding/)'s [Research Group](https://mtu.edu) at [CS&E@MTU](https://www.mtu.edu/cse/). I received my B.S. from the Electrical and Computer Engineering Department, Purdue University Northwest. (PNW), Hammond, IN, where I was a member of the 2018 [Honors Colllege](https://www.pnw.edu/honors-college/). 
+I am a Ph.D. graduate in Prof. [Sidike Paheding](https://www.mtu.edu/applied-computing/about/faculty/ac-faculty/paheding/)'s research group at [CS&E@MTU](https://www.mtu.edu/cse/). I received my B.S. from the Electrical and Computer Engineering Department at Purdue University Northwest (PNW), where I was a member of the 2018 [Honors College](https://www.pnw.edu/honors-college/).
 
+My research focuses on developing deep learning architectures for segmentation tasks in domains such as hyperspectral, medical, and geospatial imaging, with emphasis on attention mechanisms, efficient learning, and loss optimization. I also work on interdisciplinary projects spanning cybersecurity, software development, and applied AI.
 
-My research focuses on developing deep learning architectures for segmentation task in different areas such as hyperspectral, medical and geospatial imaging, with main focus in attention mechanism and loss optimization functions. In addition, I have been working in projects related to cybersecurity, software development and virtual reality.
+My recent work includes publications in venues such as WACV 2024, CVPR Workshops 2024, and CVPR Workshops 2023, alongside prior work in hyperspectral image analysis, medical imaging, and security-focused machine learning.
 
-My research has been published in many prestigious conferences, journal papers and posters presentations, including: CVPR 2022, MICCAI 2022, IEEE EIT 2022, and MDPI Electronics.
-
-
-In addition, I love cybersecurity/hacking competitions and video game developemnt using engines such as Unity and Unreal. 
+In addition, I enjoy cybersecurity and capture-the-flag competitions, as well as game development using engines such as Unity and Unreal.
