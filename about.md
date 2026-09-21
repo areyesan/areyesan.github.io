@@ -20,7 +20,7 @@ permalink: /about/
 
 # <center>Short Bio</center>
 
-I graduated with a Ph.D. in Applied Computing from [CS&E@MTU](https://www.mtu.edu/cse/) in April 2025, where I worked with Prof. [Sidike Paheding](https://www.mtu.edu/applied-computing/about/faculty/ac-faculty/paheding/). I earned my B.S. in Electrical and Computer Engineering from Purdue University Northwest (PNW), and I was also a member of the 2018 [Honors College](https://www.pnw.edu/honors-college/).
+I graduated with a Ph.D. in Applied Computing from [CS&E@MTU](https://www.mtu.edu/cse/) in April 2025, where I worked with Prof. [Sidike Paheding](https://www.mtu.edu/applied-computing/about/faculty/ac-faculty/paheding/) and Dr. [Guy Hembroff](https://www.mtu.edu/computing/graduate/program-directors/hembroff/). I earned my M.S. in Electrical and Computer Engineering from Purdue University Northwest (PNW) in 2021, and my B.S. in the same field from PNW in 2018. I was also a member of the 2018 [Honors College](https://www.pnw.edu/honors-college/).
 
 My research background spans computer vision, deep learning, and applied AI, with a focus on medical image segmentation, hyperspectral image analysis, and remote sensing. I developed efficient learning strategies, attention-based architectures, and loss-driven models for a range of problems, including retinal and skin lesion segmentation, Martian landslide detection, and geospatial analytics.
 
