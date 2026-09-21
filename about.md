@@ -20,10 +20,10 @@ permalink: /about/
 
 # <center>Short Bio</center>
 
-I am a Ph.D. graduate in the Applied Computing program at [CS&E@MTU](https://www.mtu.edu/cse/), where I worked with Prof. [Sidike Paheding](https://www.mtu.edu/applied-computing/about/faculty/ac-faculty/paheding/). I earned my B.S. in Electrical and Computer Engineering from Purdue University Northwest (PNW), where I was also a member of the 2018 [Honors College](https://www.pnw.edu/honors-college/).
+I graduated with a Ph.D. in Applied Computing from [CS&E@MTU](https://www.mtu.edu/cse/) in April 2025, where I worked with Prof. [Sidike Paheding](https://www.mtu.edu/applied-computing/about/faculty/ac-faculty/paheding/). I earned my B.S. in Electrical and Computer Engineering from Purdue University Northwest (PNW), and I was also a member of the 2018 [Honors College](https://www.pnw.edu/honors-college/).
 
-My research sits at the intersection of computer vision, deep learning, and applied AI, with a strong focus on medical image segmentation, hyperspectral image analysis, and remote sensing for geospatial and planetary applications. I have developed efficient learning strategies, attention-based architectures, and loss-function-driven models for tasks ranging from retinal and skin lesion segmentation to Martian landslide detection and crop monitoring.
+My research background spans computer vision, deep learning, and applied AI, with a focus on medical image segmentation, hyperspectral image analysis, and remote sensing. I developed efficient learning strategies, attention-based architectures, and loss-driven models for a range of problems, including retinal and skin lesion segmentation, Martian landslide detection, and geospatial analytics.
 
-Beyond core vision research, I have collaborated on interdisciplinary projects in cybersecurity, software engineering, nursing education, and serious games. My work has been disseminated in venues like CVPR, WACV, SPIE, IGARSS, and other applied AI and engineering conferences.
+I am currently part of the Applied AI organization at Walmart, where I work on pricing and optimization problems in the Pricing team. My work includes temporal graph neural networks for pricing signals, SFOT bundle generation using agentic AI and deterministic methods, and causal machine learning models for clearance markdown and international pricing elasticity.
 
-I have also been active in teaching, mentoring, and research service. I enjoy building AI systems that are not only technically strong, but also useful in real-world domains, and I remain passionate about cybersecurity, educational technology, and applied machine learning.
+Beyond my applied work, I have collaborated on interdisciplinary projects in cybersecurity, software engineering, nursing education, and serious games, and I remain active in teaching, mentoring, and technical leadership.

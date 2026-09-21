@@ -9,9 +9,12 @@ A selection of my <b>experiences</b>, grouped by categories.
 </p>
 
 ## <center>Employments</center>
+- **Walmart Global Tech**, Bentonville, AR, USA, July 2025 - Present
+	* Senior Data Scientist, Applied AI, Pricing team.
+	* Working on pricing models using temporal graph neural networks, bundle generation strategies for SFOT using agentic AI and deterministic methods, and causal machine learning for clearance markdown and international pricing elasticity.
 - **Walmart Global Tech**, Bentonville, AR, USA, June 2024 - August 2024
-	* Senior Data Scientist.
-- **Michigan Technological University**, Houghton, MI, USA, Sep 2021 - 2025
+	* Senior Data Scientist Intern.
+- **Michigan Technological University**, Houghton, MI, USA, Sep 2021 - Apr 2025
 	* Graduate Research Assistant and Instructor in the Department of Applied Computing.
 - **Banco del Pacífico**, Guayaquil, Ecuador, Jun - Sep 2021
 	* Big Data Specialist.
